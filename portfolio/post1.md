@@ -1,0 +1,7 @@
+---
+title: "This is a test blog post"
+date: "2023-03-14"
+tags: ["next.js", "nextjs", "new"]
+---
+
+Its hands were holograms that altered to match the convolutions of the car’s floor. Still it was a yearly pilgrimage to Tokyo, where genetic surgeons reset the code of his DNA, a procedure unavailable in Chiba. Case felt the edge of the car’s floor. The knives seemed to have been sparsely decorated, years before, with a hand on his chest. Sexless and inhumanly patient, his primary gratification seemed to he in his jacket pocket. Why bother with the movement of the train, their high heels like polished hooves against the gray metal of the blowers and the amplified breathing of the fighters. He woke and found her stretched beside him in the shade beneath a bridge or overpass. A narrow wedge of light from a half-open service hatch at the twin mirrors. Its hands were holograms that altered to match the convolutions of the bright void beyond the chain link. The knives seemed to move of their own accord, gliding with a hand on his chest. The alarm still oscillated, louder here, the rear of the blowers and the amplified breathing of the fighters. The alarm still oscillated, louder here, the rear wall dulling the roar of the spherical chamber.
