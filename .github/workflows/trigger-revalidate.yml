@@ -1,0 +1,15 @@
+name: Trigger Revalidation
+
+on:
+  push:
+    branches:
+      - main # or the branch name you wish to trigger the action on
+
+jobs:
+  revalidate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Send GET request
+      run: |
+        curl "https://personal-site-eight-gold.vercel.app/api/revalidate?path=/&secret=${{ secrets.VERCEL_SECRET }}"
